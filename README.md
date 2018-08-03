@@ -19,15 +19,14 @@ To setup this application you will need to have the following components install
 - MQTT server
 - Kafka messaging broker and server
 
-When you are ready to test the applications with one or more MQTT clients, you can follow the instructions in the Build and Run Components section. It will teach you how to fully build and run the application and see the power and utility offered of using GridDB with messaging brokers.
 # Project Components
 This repository includes two comopents.
 ## GridDB Connector
-We developed it based on the FileStream Connector within KafkaÅfs source code. The location of the source code of these components can be found in the src folder. 
+We developed it based on the FileStream Connector within Kafka's source code. The location of the source code of these components can be found in the src folder. 
 ## GridDB Data Viewer
 The GridDB Data Viewer outputs the data recorded by the GridDB Kafka Sink. The location of the source code of these components can be found in the DataViewer folder. 
 
-## Community
+# Community
 
   * Issues  
     Use the GitHub issue function if you have any requests, questions, or bug reports. 
@@ -36,10 +35,10 @@ The GridDB Data Viewer outputs the data recorded by the GridDB Kafka Sink. The l
     You'll need to agree GridDB Contributor License Agreement(CLA_rev1.1.pdf).
     By using the GitHub pull request function, you shall be deemed to have agreed to GridDB Contributor License Agreement.
 
-## License
+# License
   
   This GridDB Sample Application source is licensed under the Apache License, version 2.0.
   
-## Trademarks
+# Trademarks
   
   Apache Kafka, Kafka are either registered trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries.
