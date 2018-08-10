@@ -49,7 +49,6 @@ import java.util.HashMap;
 import java.util.Properties;
 import java.util.Date;
 import net.arnx.jsonic.JSON;
-import org.eclipse.paho.client.mqttv3.MqttMessage;
 
 /**
  * SimpleGridDBSinkTask writes records to a GridDB TimeSeries Container
