@@ -13,10 +13,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-//
-// This file is modified by TOSHIBA Digital Solutions Corporation.
-//
-
 apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'maven'
